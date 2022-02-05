@@ -8,7 +8,6 @@
 
 ## Fortnite
 ### Latest Updated Version: 19.20
-
 ### Last Updated: 5.2.2022 (GMT +2)
 
 - [Offsets](https://github.com/ofDataa/offsets/blob/main/fortnite/offsets). (DataType/Outer/Value)
