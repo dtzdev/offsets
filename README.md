@@ -17,4 +17,12 @@ Offsets & Sigs For Version: 19.20
 
 - [Offsets](https://github.com/ofDataa/offsets/blob/main/csgo/offsets). (Outer/Value)
 
+## Splitgate
+
+- [Offsets](https://github.com/ofDataa/offsets/blob/main/splitgate/offsets). (Outer/Value)
+
+## Apex Legends
+
+- [Offsets](https://github.com/ofDataa/offsets/blob/main/apexlegends/offsets). (Outer/Value)
+
 ---------------------
