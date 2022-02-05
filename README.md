@@ -8,11 +8,11 @@
 
 ### Fortnite
 
-- [Offsets](https://github.com/ofDataa/fortnite-offsets/blob/main/fortnite/offsets). (DataType/Outer/Value)
-- [Sigs](https://github.com/ofDataa/fortnite-offsets/blob/main/fortnite/sigs). (Name/RVA/Pattern)
+- [Offsets](https://github.com/ofDataa/offsets/blob/main/fortnite/offsets). (DataType/Outer/Value)
+- [Sigs](https://github.com/ofDataa/offsets/blob/main/fortnite/sigs). (Name/RVA/Pattern)
 
 ### CS:GO
 
-- [Offsets](https://github.com/ofDataa/fortnite-offsets/blob/main/csgo/offsets). (DataType/Outer/Value)
+- [Offsets](https://github.com/ofDataa/offsets/blob/main/csgo/offsets). (DataType/Outer/Value)
 
-
+---------------------
