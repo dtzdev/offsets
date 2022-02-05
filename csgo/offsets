@@ -1,24 +1,26 @@
-client_state	0x58bfc4	
-client_state_generic_precache_table	0x52a4	
-client_state_signon_state	0x108	
-direct3d_device9	0xa5050	
-dormant	0xed	
-engine_build_number	0x38d16d4	
-entity_list	0x4dceb7c	
-force_attack	0x31ff054	
-force_attack2	0x31ff060	
-force_backward	0x31ff0a8	
-force_forward	0x31ff09c	
-force_jump	0x52789f8	
-force_left	0x31ff0b4	
-force_right	0x31ff0c0	
-gamerules_proxy	0x52eba5c	
-global_vars	0x58bcc8	
-glow_object_manager	0x5316e98	
-input	0x5220150	
-local_player	0xdb35ec	
-player_resource	0x31fd3e0	
-radar_base	0x52038f4	
-send_packets	0xd93d2	
-studio_hdr	0x2950	
-view_matrix	0x4dc0494
+Outer | Value
+
+client_state | 0x58bfc4	
+client_state_generic_precache_table | 0x52a4	
+client_state_signon_state | 0x108	
+direct3d_device9 | 0xa5050	
+dormant | 0xed	
+engine_build_number | 0x38d16d4	
+entity_list | 0x4dceb7c	
+force_attack | 0x31ff054	
+force_attack2 | 0x31ff060	
+force_backward | 0x31ff0a8	
+force_forward | 0x31ff09c	
+force_jump | 0x52789f8	
+force_left | 0x31ff0b4	
+force_right | 0x31ff0c0	
+gamerules_proxy | 0x52eba5c	
+global_vars | 0x58bcc8	
+glow_object_manager | 0x5316e98	
+input | 0x5220150	
+local_player | 0xdb35ec	
+player_resource | 0x31fd3e0	
+radar_base | 0x52038f4	
+send_packets | 0xd93d2	
+studio_hdr | 0x2950	
+view_matrix | 0x4dc0494
