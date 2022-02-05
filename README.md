@@ -4,8 +4,6 @@
 ```
 
 ---------------------
-# Supported Games
-
 ## Fortnite
 ### Offsets & Sigs For Version: 19.20
 
