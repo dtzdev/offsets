@@ -15,6 +15,6 @@ Offsets & Sigs For Version: 19.20
 
 ## CS:GO
 
-- [Offsets](https://github.com/ofDataa/offsets/blob/main/csgo/offsets). (DataType/Outer/Value)
+- [Offsets](https://github.com/ofDataa/offsets/blob/main/csgo/offsets). (Outer/Value)
 
 ---------------------
