@@ -1,2 +1,5 @@
-# offsets
-Offsets for many games | !! THIS IS NOT UPDATED OFTEN !! | 
+# Offsets
+!! THIS IS NOT UPDATED OFTEN !! | 
+```diff
+- !! THIS IS NOT UPDATED OFTEN !! | 
+```
