@@ -1,5 +1,7 @@
 # Offsets
 ```diff
+- !! THESE CAN BE OUTDATED !! | 
+
 - !! THIS IS NOT UPDATED OFTEN !! | 
 - !! Offsets / Sigs May Be Outdated !! | 
 ```
