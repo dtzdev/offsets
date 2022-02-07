@@ -1,8 +1,8 @@
 # Offsets
 ```diff
-- !! THESE CAN BE OUTDATED !! | 
+- !! THESE CAN BE OUTDATED !!
 
-- !! THIS IS NOT UPDATED OFTEN !! | 
+- !! THIS IS NOT UPDATED OFTEN !! 
 - !! Offsets / Sigs May Be Outdated !! | 
 ```
 
