@@ -3,7 +3,7 @@
 - !! THESE CAN BE OUTDATED !!
 
 - !! THIS IS NOT UPDATED OFTEN !! 
-- !! Offsets / Sigs May Be Outdated !! | 
+- !! Offsets / Sigs May Be Outdated !!
 ```
 
 ---------------------
