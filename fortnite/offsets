@@ -1,7 +1,7 @@
 DataType | Outer | Value
 
 struct | GObjects | 0xB613240
-struct | UWorld | 0xB78BC70
+struct | UWorld | 0xb613240
 struct | Levels | 0x148
 struct | PersistentLevel | 0x30
 struct | LocalPlayers | 0x38
@@ -10,8 +10,8 @@ FRotator | ControlRotation | 0x290
 struct | PlayerCameraManager | 0x2C0
 struct | AcknowledgedPawn | 0x2A8
 struct | PlayerState | 0x238
-struct | RootComponent | 0x130
-struct | Mesh | 0x280
+struct | RootComponent | 0x138
+struct | Mesh | 0x288
 FVector | RelativeLocation | 0x11C
 ~ | ComponentVelocity | 0x140
 struct | StaticMesh | 0x488
@@ -21,7 +21,7 @@ float | LastFireTimeVerified | 0x9E8
 float | LastFireTime | 0x9E4
 bool | bIsDBNO | 0x572
 bool | bIsDying | 0x548
-int | TeamIndex | 0xF28
+int | TeamIndex | 0xF50
 struct | PrimaryPickupItemEntry | 0x2A0
 FText | DisplayName | 0x88
 int | Tier | 0x6C
@@ -57,3 +57,4 @@ bool | bIsTargeting | 0x9F9
 int | WeaponLevel | 0xA6C
 int | AmmoCount | 0xA70
 bool | bSpotted | 0x54A
+- | LocalPawn | 0x2B0
