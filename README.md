@@ -15,6 +15,7 @@ Offsets & Sigs For Version: 19.20
 
 - [Offsets](https://github.com/ofDataa/offsets/blob/main/fortnite/offsets). (DataType/Outer/Value)
 - [Sigs](https://github.com/ofDataa/offsets/blob/main/fortnite/sigs). (Name/RVA/Pattern)
+- [BONE Ids](https://github.com/ofDataa/offsets/blob/main/fortnite/BoneIDS.cpp).
 
 ## CS:GO
 
