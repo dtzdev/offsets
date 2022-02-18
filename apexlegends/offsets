@@ -1,31 +1,31 @@
 Outer | Value
 
-client_render_targets | 0x1fbc3c0	
-ibase_client_dll | 0x1959980	
-iclient_entity_list | 0x1fbbbc8	
-cprediction | 0x1fbbbd0	
-iv_model_render | 0x1239490	
-vgui_system | 0x1f57c70	
-iv_render_view | 0x7512c80	
-iv_debug_overlay | 0x75ade88	
-iv_model_info_client | 0x7512c90	
+client_render_targets | 0x1ef9430	
+ibase_client_dll | 0x195a460	
+iclient_entity_list | 0x1ef8c38	
+cprediction | 0x1ef8c40	
+iv_model_render | 0x1238660	
+vgui_system | 0x1eb2f70	
+iv_render_view | 0x7430230	
+iv_debug_overlay | 0x74cb438	
+iv_model_info_client | 0x7430240	
 iv_engine_client | 0x0	
-iv_engine_trace | 0x7512c98	
-inetwork_string_table | 0x7512ca8	
-cnetwork_u64_table | 0x7510460	
-cinput | 0x1d0b9d0	
-cengine | 0x1240690	
-iswapchain | 0xb933b08	
-cl_entitylist | 0x1972ea8	
-local_entity_handle | 0x1234038	
-local_player | 0x1d22708	
-global_vars | 0x130d100	
-name_list | 0xba19040	
-view_render | 0x7512c88	
-view_matrix | 0x1d504d0	
-client_state | 0x130d3f0	
-sign_on_state | 0x130d488	
-level_name | 0x130d5a0	
-glow_enable | 0x3c8	
-glow_type | 0x2c0	
-glow_color | 0x1d0
+iv_engine_trace | 0x7430248	
+inetwork_string_table | 0x7430258	
+cnetwork_u64_table | 0x742da18	
+cinput | 0x1d0c600	
+cengine | 0x123f780	
+iswapchain | 0xb84b068	
+cl_entitylist | 0x1973ad8	
+local_entity_handle | 0x123208c	
+local_player | 0x1d233d8	
+global_vars	0x1308840	
+name_list	0xb9305d0	
+view_render	0x7430238	
+view_matrix	0x10e8d0	
+client_state	0x1308b30	
+sign_on_state	0x1308bc8	
+level_name	0x1308ce0	
+glow_enable	0x3c8	
+glow_type	0x2c0	
+glow_color	0x1d0
