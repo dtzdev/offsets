@@ -1,3 +1,5 @@
+Fortnite Offset & Sigs Archive made by me [here](https://github.com/ofDataa/fortnite-offset-archive)
+
 # Offsets
 ```diff
 - !! THESE CAN BE OUTDATED !!
@@ -11,7 +13,7 @@
 
 ## Fortnite
 
-Offsets & Sigs For Version: 19.20
+Offsets & Sigs For Version: 19.30
 
 - [Offsets](https://github.com/ofDataa/offsets/blob/main/fortnite/offsets). (DataType/Outer/Value)
 - [Sigs](https://github.com/ofDataa/offsets/blob/main/fortnite/sigs). (Name/RVA/Pattern)
