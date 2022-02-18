@@ -19,13 +19,13 @@ iswapchain | 0xb84b068
 cl_entitylist | 0x1973ad8	
 local_entity_handle | 0x123208c	
 local_player | 0x1d233d8	
-global_vars	0x1308840	
-name_list	0xb9305d0	
-view_render	0x7430238	
-view_matrix	0x10e8d0	
-client_state	0x1308b30	
-sign_on_state	0x1308bc8	
-level_name	0x1308ce0	
-glow_enable	0x3c8	
-glow_type	0x2c0	
-glow_color	0x1d0
+global_vars | 0x1308840	
+name_list | 0xb9305d0	
+view_render | 0x7430238	
+view_matrix | 0x10e8d0	
+client_state | 0x1308b30	
+sign_on_state | 0x1308bc8	
+level_name | 0x1308ce0	
+glow_enable | 0x3c8	
+glow_type | 0x2c0	
+glow_color | 0x1d0
