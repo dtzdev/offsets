@@ -15,7 +15,7 @@ Fortnite Offset & Sigs Archive made by me [here](https://github.com/ofDataa/fort
 
 Offsets & Sigs For Version: 19.30
 
-- [Offsets](https://github.com/ofDataa/offsets/blob/main/fortnite/offsets). (DataType/Outer/Value)
+- [Offsets](https://github.com/ofDataa/offsets/blob/main/fortnite/all_offsets-19.30). (DataType/Outer/Value)
 - [Sigs](https://github.com/ofDataa/offsets/blob/main/fortnite/sigs). (Name/RVA/Pattern)
 - [BONE Ids](https://github.com/ofDataa/offsets/blob/main/fortnite/BoneIDS.cpp).
 
