@@ -1,31 +1,31 @@
 Outer | Value
 
-client_render_targets | 0x1ef9430	
-ibase_client_dll | 0x195a460	
-iclient_entity_list | 0x1ef8c38	
-cprediction | 0x1ef8c40	
-iv_model_render | 0x1238660	
-vgui_system | 0x1eb2f70	
-iv_render_view | 0x7430230	
-iv_debug_overlay | 0x74cb438	
-iv_model_info_client | 0x7430240	
-iv_engine_client | 0x0	
-iv_engine_trace | 0x7430248	
-inetwork_string_table | 0x7430258	
-cnetwork_u64_table | 0x742da18	
-cinput | 0x1d0c600	
-cengine | 0x123f780	
-iswapchain | 0xb84b068	
-cl_entitylist | 0x1973ad8	
-local_entity_handle | 0x123208c	
-local_player | 0x1d233d8	
-global_vars | 0x1308840	
-name_list | 0xb9305d0	
-view_render | 0x7430238	
-view_matrix | 0x10e8d0	
-client_state | 0x1308b30	
-sign_on_state | 0x1308bc8	
-level_name | 0x1308ce0	
-glow_enable | 0x3c8	
-glow_type | 0x2c0	
-glow_color | 0x1d0
+client_render_targets	0x1efa430	
+ibase_client_dll	0x195b460	
+iclient_entity_list	0x1ef9c38	
+cprediction	0x1ef9c40	
+iv_model_render	0x1239660	
+vgui_system	0x1eb3f80	
+iv_render_view	0x7431230	
+iv_debug_overlay	0x74cc438	
+iv_model_info_client	0x7431240	
+iv_engine_client	0x0	
+iv_engine_trace	0x7431248	
+inetwork_string_table	0x7431258	
+cnetwork_u64_table	0x742ea18	
+cinput	0x1d0d600	
+cengine	0x1240780	
+iswapchain	0xb84c068	
+cl_entitylist	0x1974ad8	
+local_entity_handle	0x123308c	
+local_player	0x1d243d8	
+global_vars	0x1309840	
+name_list	0xb9315d0	
+view_render	0x7431238	
+view_matrix	0x5f2891	
+client_state	0x1309b30	
+sign_on_state	0x1309bc8	
+level_name	0x1309ce0	
+glow_enable	0xe56	
+glow_type	0x2c0	
+glow_color	0x1d0
