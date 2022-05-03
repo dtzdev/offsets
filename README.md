@@ -1,3 +1,5 @@
+# NOTE: Expect update very soon.
+
 # ALL OFFSETS & SIGS WILL BE UPDATED IN 24 HOURS!
 
 Fortnite Offset & Sigs Archive made by me [here](https://github.com/ofDataa/fortnite-offset-archive)
