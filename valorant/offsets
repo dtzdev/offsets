@@ -1,4 +1,6 @@
-uworld_state = 0x8F8F740
+outer = value
+
+uworld_state = 0x9030840
 uworld_key = uworld_state + 0x38
 override_materials = 0x4f8
 game_instance = 0x1A8
@@ -16,14 +18,14 @@ actor_count = 0xB8
 unique_id = 0x38
 mesh_component = 0x430
 last_render_time = 0x350
-ast_submit_time = 0x358
+last_submit_time = 0x358
 bone_array = 0x558
-bone_count = 0x560 // MAY BE OUTDATED
+bone_count = 0x560 OUTDATED??
 component_to_world = 0x250
 root_component = 0x230
 root_position = 0x164
 damage_handler = 0x9A0
-health = 0x1B0
+health = 0x1B
 dormant = 0x120
 player_state = 0x3F0
 team_component = 0x5A0
@@ -31,7 +33,7 @@ team_id = 0xF8
 FresnelIntensity = 0x6B8
 FresnelOffset = 0x694
 CachedFresnelColor = 0x680
-achedFresnelOffset = 0x684
-CachedFresnelIntensity =  0x688
-CachedLocalFresnelOffset =   0x68c
-LineOfSight 0x4A60CE0
+	constexpr auto CachedFresnelOffset = 0x684;
+	constexpr auto CachedFresnelIntensity = 0x688;
+	constexpr auto CachedLocalFresnelOffset = 0x68c;
+	constexpr auto LineOfSight = 0x4A60CE0;
