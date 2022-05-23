@@ -1,0 +1,7 @@
+Outer | Value
+
+SetControlRotation | 0x6F8
+GetPlayerViewPoint |  0x788
+GetCameraRotation |  0x780
+GetCameraLocation | 0x788
+GetFOVAngle | 0x740
