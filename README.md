@@ -1,14 +1,8 @@
-# NOTE: Latest Update: 10.6.2022
+# Offsets for many games
 
-Fortnite Offset & Sigs Archive made by me [here](https://github.com/ofDataa/fortnite-offset-archive)
-
-# Offsets
-```diff
-- !! THESE CAN BE OUTDATED !!
-
-- !! THIS IS NOT UPDATED OFTEN !! 
-- !! Offsets / Sigs May Be Outdated !!
-```
+## Contributors
+[dtz/ofDataa](https://github.com/ofDataa/)
+[MaxTCodes](https://github.com/MaxTCodes) (thx for updating this)
 
 ---------------------
 # Supported Games
