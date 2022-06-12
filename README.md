@@ -1,7 +1,7 @@
 # Offsets for many games
 
 ## Contributors
-[dtz/ofDataa](https://github.com/ofDataa/)
+[dtz/ofDataa](https://github.com/ofDataa/) <br>
 [MaxTCodes](https://github.com/MaxTCodes) (thx for updating this)
 
 ---------------------
