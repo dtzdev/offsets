@@ -1,5 +1,6 @@
 # Offsets for many games
 
+---------------------
 ## Contributors
 [dtz/ofDataa](https://github.com/ofDataa/) <br>
 [MaxTCodes](https://github.com/MaxTCodes) (thx for updating this)
@@ -27,5 +28,13 @@ Offsets & Sigs For Version: 21.00
 ## Apex Legends
 
 - [Offsets](https://github.com/ofDataa/offsets/blob/main/apexlegends/offsets). (Outer/Value)
+
+## Rust
+
+- [Offsets](https://github.com/ofDataa/offsets/blob/main/rust/offsets). (Outer/Value)
+
+## Valorant
+
+- [Offsets](https://github.com/ofDataa/offsets/blob/main/rust/offsets). (Outer/Value)
 
 ---------------------
