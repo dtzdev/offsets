@@ -1,3 +1,6 @@
+# IM TOO LAZY TO UPDATE THIS
+# IF YOU WANT TO UPDATE PLEASE OPEN PR
+
 # Offsets for many games
 
 ---------------------
